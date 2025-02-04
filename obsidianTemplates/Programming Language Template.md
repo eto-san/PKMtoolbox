@@ -1,7 +1,6 @@
 ---
 tags:
   - notes/permanent
-  - ️⃣
 created: 
 up:
   - "[[Programming Languages]]"
